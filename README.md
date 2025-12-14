@@ -9,9 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/theError13/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/theError13/leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/theError13/leetcode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/theError13/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
