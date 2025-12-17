@@ -18,9 +18,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/theError13/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/theError13/leetcode/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/theError13/leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/theError13/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/theError13/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
