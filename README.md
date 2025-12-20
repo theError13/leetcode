@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/theError13/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/theError13/leetcode/tree/master/0067-add-binary) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/theError13/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Array
 |  |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/theError13/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/theError13/leetcode/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/theError13/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/theError13/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/theError13/leetcode/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -34,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/theError13/leetcode/tree/master/0118-pascals-triangle) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/theError13/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
