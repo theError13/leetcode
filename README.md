@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/theError13/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/theError13/leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/theError13/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/theError13/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Array
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/theError13/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/theError13/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/theError13/leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/theError13/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Linked List
 |  |
 | ------- |
