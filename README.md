@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/theError13/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/theError13/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/theError13/leetcode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/theError13/leetcode/tree/master/0389-find-the-difference) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/theError13/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/theError13/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/theError13/leetcode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/theError13/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/theError13/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/theError13/leetcode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/theError13/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/theError13/leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/theError13/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
