@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theError13/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/theError13/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/theError13/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/theError13/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theError13/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/theError13/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/theError13/leetcode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/theError13/leetcode/tree/master/0389-find-the-difference) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/theError13/leetcode/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theError13/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
