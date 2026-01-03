@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theError13/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/theError13/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/theError13/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/theError13/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/theError13/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/theError13/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/theError13/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theError13/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/theError13/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0455-assign-cookies](https://github.com/theError13/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
