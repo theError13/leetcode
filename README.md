@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/theError13/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/theError13/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/theError13/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theError13/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/theError13/leetcode/tree/master/0136-single-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/theError13/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/theError13/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/theError13/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/theError13/leetcode/tree/master/0455-assign-cookies) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theError13/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/theError13/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/theError13/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
